@@ -73,7 +73,7 @@ class Login_Window:
     def login(self):
         if self.user_entry.get()=="" or self.password_entry.get()=="":
             messagebox.showerror("Error","Fill the Empty Fields",parent=self.root)
-        elif self.user_entry.get()=="Ananyaa" and self.password_entry.get()=="Test@12":
+        elif self.user_entry.get()=="Amit" and self.password_entry.get()=="Test@12":
             messagebox.showinfo("Success","Welcome to Attendance Tool via Face Recognition ",parent=self.root)
         else:
             messagebox.showerror("Error","Invalid Username and Password",parent=self.root)
