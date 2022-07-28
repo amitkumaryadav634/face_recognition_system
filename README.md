@@ -122,10 +122,6 @@
 ![Screenshot 2022-05-29 123435](https://user-images.githubusercontent.com/89255668/170856478-be3efd84-f652-4ee1-adf6-f65e563fdeee.jpg)
 
 
-## Video Demo Of the project
-
-### The *video demo* of my project is [here](https://youtu.be/omjgzgBX_v8)
-
 ## Installation Commands Required
 
      pip install PIL
