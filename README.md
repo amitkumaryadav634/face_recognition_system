@@ -1,5 +1,4 @@
-# MS Enage 2022 Face Recognition Attendance System
-####  This project is made under Microsoft Engage 2022 Program.
+
 ####  Attendance Tool via Face Recognition is a Python Tkinter GUI based Opencv Project which stores variety of details of students and records their attendance on real time basis in a CSV file directly.
 #### Use of Haarcascade Classifier and LBPH Algorithm has been used to capture,train,detect and recognize the images.
 
@@ -123,11 +122,6 @@
 ![Screenshot 2022-05-29 123435](https://user-images.githubusercontent.com/89255668/170856478-be3efd84-f652-4ee1-adf6-f65e563fdeee.jpg)
 
 
-## Helpdesk
-
-#### Details of developer.
-![Screenshot 2022-05-27 051749](https://user-images.githubusercontent.com/89255668/170838801-eedc6278-637e-46ed-a5b9-0a2457f32f82.jpg)
-
 ## Video Demo Of the project
 
 ### The *video demo* of my project is [here](https://youtu.be/omjgzgBX_v8)
@@ -145,7 +139,7 @@
   1) Clone the repository
   2) Install Python 3
   3) Run the installation commands
-  4) Login details: Username="Ananyaa" ; Password ="Test@12"
+  4) Login details: Username="Amit" ; Password ="Test@12"
   5) Create a mysql schema name = "face_recognizer" and table name="details"
   6) The various column names are-dep,Course,Year,Semester,ID,Enrollment,Name,Gender,Phone,Email,DOB,Photo
   7) Mysql details: host = "localhost" ; username="root" ; password = "Sanskrit@12" ; database = "face_recognizer";
