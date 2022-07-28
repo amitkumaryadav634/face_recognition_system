@@ -61,12 +61,7 @@
  #### Reset the data button clears all the entries.
  #### This page is made by creating various frames for different sections and using the grid feature of tkinter to locate them on the page.
  #### You can check the data being saved simultaneously on Mysql Workbench
-      
-![Screenshot 2022-05-29 124243](https://user-images.githubusercontent.com/89255668/170856747-7bdbe409-e94c-4cb8-b4e6-a1655d9a0695.jpg)
-
-### Mysql Workbench
-
-![Screenshot 2022-05-29 124319](https://user-images.githubusercontent.com/89255668/170858697-2fcf8137-3bfb-4c80-bded-79a9187b82f0.jpg)
+     
 
 
 ## Train Data and LBPH Algorithm
@@ -94,11 +89,6 @@
 ![image align="middle"](https://user-images.githubusercontent.com/89255668/170858938-c32421d7-94e8-42bf-8ec6-2d08717582e4.png)
 
 
-### This is how the window looks while training the images.
-
-
-![Screenshot 2022-05-29 001118](https://user-images.githubusercontent.com/89255668/170838774-7ef55766-c2f9-4448-8c66-2723ff5bb983.jpg)
-
 ## Face Detection 
 
 ### The Flow Chart of How the Face Detection Works using HaarCascade Classifier
@@ -118,8 +108,6 @@
   #### The file can be exported to another CSV file on the desktop.
 
 
-
-![Screenshot 2022-05-29 123435](https://user-images.githubusercontent.com/89255668/170856478-be3efd84-f652-4ee1-adf6-f65e563fdeee.jpg)
 
 
 ## Installation Commands Required
